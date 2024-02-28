@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/ball.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/CustomEnemy.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/MortarEnemy.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LevelDesign.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LevelDesign1.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/CollectibleItem.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/GameOver.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthBar.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthPack.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled1.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled2.umap"
+			]
+		}
+	]
+}
